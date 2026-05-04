@@ -1,0 +1,82 @@
+DOCUMENT: Proposal and Scoping Process
+SOURCE: proposal_scoping.txt
+
+---
+
+SECTION 1: OVERVIEW
+
+A well-scoped proposal is the foundation of a successful engagement. Poor scoping leads to scope creep, margin erosion, and client dissatisfaction. All proposals must go through the standard scoping and approval process before being sent to a client. This document outlines that process.
+
+---
+
+SECTION 2: QUALIFYING AN OPPORTUNITY
+
+Before investing time in a proposal, the opportunity must be qualified. Use the following criteria:
+
+Strategic fit: Does the opportunity align with our core service areas? Opportunities outside our core areas require Principal approval to pursue.
+
+Relationship: Do we have an existing relationship with the client, or a warm introduction? Cold opportunities (no existing relationship) require a go/no-go decision from a Principal before proposal work begins.
+
+Budget: Has the client indicated a budget, or can we reasonably estimate willingness to pay? Do not invest significant proposal effort in opportunities where budget is entirely unknown.
+
+Timeline: Is the client's decision timeline realistic? If they need a proposal in less than 48 hours, escalate to a Principal — do not rush a proposal without approval.
+
+Win probability: Honestly assess the likelihood of winning. If win probability is below 30%, the opportunity requires Principal sign-off to pursue.
+
+---
+
+SECTION 3: SCOPING THE ENGAGEMENT
+
+Scoping must be done before pricing. Never start with a price and work backwards to a scope.
+
+Discovery calls: Conduct at least one scoping call with the client before writing the proposal. The purpose is to understand the problem deeply, not to pitch. Ask open questions. Listen more than you speak.
+
+Scope definition: A proposal scope must clearly define:
+- What is included in the engagement
+- What is explicitly excluded
+- Key assumptions the proposal is based on
+- Dependencies on the client (e.g. access to data, availability of stakeholders)
+
+Assumptions are critical. If your assumptions are wrong, your scope and price will be wrong. Document assumptions explicitly and review them with the client verbally before submitting the proposal.
+
+Effort estimation: Estimate effort in days per role (e.g. 10 days Principal, 30 days Senior Consultant, 20 days Analyst). Apply standard day rates from the current Rate Card (available on the internal portal). Do not deviate from standard rates without Commercial Director approval.
+
+---
+
+SECTION 4: WRITING THE PROPOSAL
+
+Proposals must follow the standard proposal template available on the internal portal. All proposals must include:
+
+1. Executive Summary — a one-page summary of the client's problem, our proposed approach, and the expected outcome. Written for a senior executive who may only read this page.
+2. Our Understanding of the Challenge — demonstrate that we understand the client's situation. Reference specific details from your scoping conversations.
+3. Our Approach — describe the methodology we will use, broken into phases with clear activities and deliverables for each phase.
+4. Team — introduce the proposed team with brief bios. Match seniority to the complexity of the engagement.
+5. Timeline — a visual timeline showing phases, key milestones, and the expected end date.
+6. Investment — the total fee, payment schedule, and what is and is not included. Be explicit about expenses policy (we bill reasonable expenses at cost with receipts).
+7. Why Us — a brief section on our relevant experience. Include one or two anonymised case studies if available.
+
+Proposals should be concise. A standard proposal should be no more than 12 pages excluding appendices. Quality over length.
+
+---
+
+SECTION 5: PROPOSAL REVIEW AND APPROVAL
+
+All proposals must be reviewed internally before submission. The review process depends on proposal value:
+
+- Under £50,000: Review by engagement manager required.
+- £50,000 – £200,000: Review by engagement manager and one Principal required.
+- Over £200,000: Review by engagement manager, Principal, and Commercial Director required.
+
+The reviewer must check for: accuracy of scope, appropriateness of pricing, clarity of writing, compliance with template, and any legal or commercial risks.
+
+Allow at least 2 business days for the review process. Do not submit a proposal without completed review sign-off.
+
+---
+
+SECTION 6: AFTER SUBMISSION
+
+Follow up with the client within 3 business days of submission if you have not heard back. Ask if they have questions rather than asking for a decision.
+
+Win/loss debrief: Whether we win or lose, conduct a brief internal debrief to capture what worked and what could be improved. Record the outcome in the CRM system.
+
+If we lose: Ask the client (politely) for feedback on why. This information is valuable and should be recorded in the CRM against the opportunity.

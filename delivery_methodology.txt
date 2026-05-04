@@ -1,0 +1,89 @@
+DOCUMENT: Project Delivery Methodology
+SOURCE: delivery_methodology.txt
+
+---
+
+SECTION 1: OVERVIEW
+
+Our project delivery methodology is built around four core phases: Discovery, Design, Delivery, and Close. Every client engagement, regardless of size or complexity, must follow this structure. Deviations require written approval from a Principal or above.
+
+The methodology ensures consistency in how we deliver value to clients, manage risk, and maintain quality standards across all engagements.
+
+---
+
+SECTION 2: PHASE 1 — DISCOVERY
+
+Duration: Typically 2–4 weeks depending on engagement size.
+
+The Discovery phase begins immediately after the contract is signed. The lead consultant is responsible for scheduling a kickoff meeting with the client within 5 business days of contract signature.
+
+Key activities in Discovery:
+- Stakeholder mapping: Identify all relevant client stakeholders, their roles, and their influence on the project outcome.
+- Current state assessment: Document the client's existing processes, systems, and pain points through interviews and workshops.
+- Data collection: Gather quantitative data (KPIs, financials, operational metrics) to establish a baseline.
+- Problem framing: Align with the client on a precise problem statement before proceeding to Design.
+
+Deliverables:
+- Stakeholder map
+- Current state report
+- Agreed problem statement (signed off by client sponsor)
+
+A Discovery readout must be presented to the client sponsor before moving to the Design phase. No engagement may proceed to Design without a signed-off problem statement.
+
+---
+
+SECTION 3: PHASE 2 — DESIGN
+
+Duration: Typically 3–6 weeks.
+
+The Design phase involves developing solution options and recommending a preferred approach. Consultants should develop a minimum of two solution options to present to the client — this demonstrates rigor and avoids the appearance of a predetermined answer.
+
+Key activities in Design:
+- Hypothesis development: Formulate hypotheses about potential solutions based on Discovery findings.
+- Options analysis: Evaluate each option against criteria including cost, feasibility, risk, and expected impact.
+- Business case development: Quantify the expected return on investment for the recommended solution.
+- Implementation planning: Develop a high-level roadmap for the recommended solution.
+
+Deliverables:
+- Options analysis document
+- Recommended solution with business case
+- High-level implementation roadmap
+
+All Design deliverables must pass an internal Peer Review before being shared with the client. See the Quality Assurance policy for Peer Review requirements.
+
+---
+
+SECTION 4: PHASE 3 — DELIVERY
+
+Duration: Varies by engagement. Typically 8–24 weeks.
+
+The Delivery phase is where the recommended solution is implemented. The lead consultant transitions into a project management role, coordinating workstreams, managing client relationships, and tracking progress against milestones.
+
+Key activities in Delivery:
+- Workstream management: Break the implementation into parallel workstreams with clear owners and deadlines.
+- Weekly status reporting: Send a written status report to the client sponsor every Friday by 4pm. The report must include: progress against milestones, risks and issues, decisions required from the client, and next steps.
+- Change management: Any scope change must be documented in a Change Request form and approved by both the client sponsor and an internal Principal before work proceeds.
+- Risk management: Maintain a live risk register updated at least weekly. Escalate any red-rated risks to a Principal immediately.
+
+Deliverables:
+- Weekly status reports
+- Updated risk register
+- Change request log
+- Implementation outputs (varies by engagement)
+
+---
+
+SECTION 5: PHASE 4 — CLOSE
+
+Duration: Typically 2–3 weeks.
+
+The Close phase ensures the engagement ends cleanly, learnings are captured, and the client relationship is positioned for future work.
+
+Key activities in Close:
+- Final deliverable sign-off: Obtain written sign-off from the client sponsor on all final deliverables.
+- Lessons learned session: Conduct an internal retrospective with the full project team within 5 business days of project end.
+- Knowledge capture: Submit a project summary to the Knowledge Management system within 10 business days of project end. See the Knowledge Management policy for required fields.
+- Client satisfaction survey: Send the standard client satisfaction survey within 2 business days of final sign-off.
+- Commercial close: Confirm all invoices are issued and outstanding payments are followed up by the Finance team.
+
+A project may not be marked as Closed in the project management system until all of the above activities are complete.

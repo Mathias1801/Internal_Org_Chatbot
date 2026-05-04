@@ -1,0 +1,75 @@
+DOCUMENT: Knowledge Management Policy
+SOURCE: knowledge_management.txt
+
+---
+
+SECTION 1: OVERVIEW
+
+Our knowledge is one of our most valuable assets. When we capture and share what we learn on engagements, we improve the quality of future work and avoid reinventing the wheel. This policy sets out how consultants are expected to contribute to and use our knowledge management system.
+
+---
+
+SECTION 2: THE KNOWLEDGE MANAGEMENT SYSTEM
+
+Our knowledge management system (KMS) is hosted on the internal portal. It contains project summaries, reusable frameworks, case studies, proposal templates, and research. All consultants have read and write access.
+
+The KMS is only as good as what people put into it. Contributing to the KMS is not optional — it is a professional responsibility and is assessed as part of annual performance reviews.
+
+---
+
+SECTION 3: WHAT MUST BE SUBMITTED TO THE KMS
+
+After every engagement, the lead consultant must submit the following within 10 business days of project close:
+
+Project Summary: A 1–2 page summary covering the client situation (anonymised), the approach taken, the key findings or recommendations, the outcome, and any lessons learned. Do not include any client-confidential information — the summary should be written as if it could be shared externally.
+
+Reusable assets: Any frameworks, templates, models, or tools developed during the engagement that could be useful on future projects. Submit these as separate files with a brief description of what they are and when to use them.
+
+Case study (optional but encouraged): A short, polished case study suitable for use in proposals. Must be approved by the engagement manager and, where required, by the client before being added to the KMS.
+
+---
+
+SECTION 4: HOW TO TAG AND CATEGORISE SUBMISSIONS
+
+All KMS submissions must be tagged so they can be found. Required tags:
+
+- Industry: e.g. Financial Services, Retail, Healthcare, Public Sector
+- Service area: e.g. Strategy, Operations, Digital, Change Management
+- Geography: e.g. UK, Europe, Global
+- Engagement size: Small (<£100k), Medium (£100k–£500k), Large (>£500k)
+- Phase: Discovery, Design, Delivery, Close, Full engagement
+
+Use specific tags. "Consulting" is not a useful tag. "Retail operations process improvement" is.
+
+---
+
+SECTION 5: USING THE KMS BEFORE STARTING WORK
+
+Before beginning any significant piece of work — particularly at the start of a new engagement — consultants are expected to search the KMS for relevant prior work. This applies especially to:
+
+- Developing a proposal: Search for prior proposals in the same industry or service area.
+- Building a financial model: Check whether a suitable model already exists before building from scratch.
+- Conducting industry research: Check whether recent research already exists before commissioning new research.
+- Designing a workshop: Look for prior workshop designs and facilitation guides.
+
+If you find relevant prior work, acknowledge the original author when you use or adapt it. Do not present adapted prior work as entirely original without attribution.
+
+---
+
+SECTION 6: KNOWLEDGE SHARING SESSIONS
+
+In addition to the KMS, we run monthly internal knowledge sharing sessions. Each session features one or two consultants presenting learnings from a recent engagement. Participation as a presenter is expected at least once per year for all consultants at Senior Consultant level and above.
+
+Sessions are recorded and uploaded to the internal portal for those who cannot attend live.
+
+---
+
+SECTION 7: CONFIDENTIALITY
+
+All client information in the KMS must be anonymised. Do not include:
+- Client names (use descriptors like "a major UK retail bank" instead)
+- Commercially sensitive financial information
+- Personal data about client employees
+- Any information marked confidential in the client contract
+
+If you are unsure whether information can be included, check with your engagement manager before submitting.

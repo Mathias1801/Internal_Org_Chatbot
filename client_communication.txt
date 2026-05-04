@@ -1,0 +1,61 @@
+DOCUMENT: Client Communication Guidelines
+SOURCE: client_communication.txt
+
+---
+
+SECTION 1: OVERVIEW
+
+Clear, professional, and timely communication is one of the most important ways we build trust with clients. These guidelines apply to all client-facing communication including emails, meetings, presentations, and phone calls. All consultants are expected to follow these standards from day one of an engagement.
+
+---
+
+SECTION 2: EMAIL STANDARDS
+
+Response time: All client emails must be responded to within 4 business hours during working days. If you cannot provide a full answer within that time, send an acknowledgment confirming you have received the message and when a full response will follow.
+
+Tone: Emails should be professional but not overly formal. Write in plain language — avoid jargon and consulting buzzwords unless the client uses them first. Always re-read an email before sending to check for clarity and tone.
+
+Structure: For any email longer than three paragraphs, use headers or bullet points to make it scannable. Lead with the most important information. If you need a decision or action from the client, state it clearly at the top, not buried at the end.
+
+CC and BCC policy: Always CC your engagement manager on emails to client sponsors and senior stakeholders. Do not BCC internal colleagues on client emails — if you want to share a client email internally, forward it separately.
+
+Subject lines: Use clear, specific subject lines. Include the project name or code in brackets at the start, e.g. "[Project Atlas] Revised timeline for Phase 2".
+
+Sensitive topics: Never put sensitive commercial information, pricing details, or internal concerns about a client in an email. If the topic is sensitive, pick up the phone or arrange a meeting.
+
+---
+
+SECTION 3: MEETING STANDARDS
+
+Preparation: Every client meeting must have an agenda sent at least 24 hours in advance. The agenda should state the purpose of the meeting, topics to be covered, time allocated to each topic, and any pre-reading required.
+
+Facilitation: The lead consultant is responsible for facilitating client meetings unless otherwise agreed. Keep meetings on track and on time. If a discussion goes off-agenda, acknowledge it, park it, and return to it if time allows or schedule a follow-up.
+
+Note-taking: A designated note-taker must be assigned for every client meeting. Notes should capture decisions made, actions agreed (with owner and due date), and open issues. Notes must be circulated to all attendees within 24 hours of the meeting.
+
+Virtual meetings: For video calls, all consultants must have their camera on unless there is a technical issue. Use a professional background. Mute yourself when not speaking. Arrive 2 minutes early to check audio and video.
+
+Meeting no-shows: If a client fails to attend a scheduled meeting without notice, wait 10 minutes then send a polite email asking if they would like to reschedule. Do not send more than one follow-up email on the same missed meeting.
+
+---
+
+SECTION 4: ESCALATION PROCEDURE
+
+When to escalate: Escalate to your engagement manager immediately if any of the following occur:
+- A client expresses dissatisfaction with our work or team
+- A key milestone is at risk of being missed
+- A client requests a scope change that affects budget or timeline
+- A conflict arises between client stakeholders that affects the project
+- You receive a complaint or a threat of legal action
+
+How to escalate: Send your engagement manager a written summary (email is fine) covering: what happened, when it happened, what has been communicated to the client so far, and your recommended next step. Do not wait for a scheduled check-in — escalate immediately.
+
+Client complaints: If a client makes a formal complaint, do not respond to it yourself. Acknowledge receipt within 2 hours and inform them that a senior team member will be in touch. Then escalate to a Principal immediately.
+
+---
+
+SECTION 5: RELATIONSHIP MANAGEMENT
+
+Every engagement should have a relationship map identifying who our key contacts are and how often we should be proactively in touch with them. Client relationships should not be managed reactively — schedule regular informal check-ins with senior client stakeholders, not just formal project meetings.
+
+At the end of every engagement, the lead consultant is responsible for completing a Client Relationship Handover document so that any future team working with the client has context on the relationship.
